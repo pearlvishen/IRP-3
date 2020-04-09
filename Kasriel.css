@@ -70,8 +70,8 @@ border-width: 2px;
 }
 
   a#return:hover{
-  background-color:#cfd1c8;
-  color:black;
+  background-color:black;
+  color:white;
   border-style: solid;
   border-width: 2px;
   border-color: white;
